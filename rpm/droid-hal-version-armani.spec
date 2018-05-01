@@ -6,7 +6,6 @@
 %define vendor_pretty Xiaomi
 %define device_pretty Redmi 1S
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
-%define have_ffmemless 1
-
+%define have_native_vibrator 1
 %define have_led 1
 %include droid-hal-version/droid-hal-version.inc
